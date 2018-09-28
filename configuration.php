@@ -1,5 +1,5 @@
 <?php
-	
+	//test komentar untuk commit
 	class SConfig{
 		var $_site_url = "http://localhost/tuguperdana.co.id";
 		var $_document_root = "C:/xampp/htdocs/tuguperdana.co.id";
